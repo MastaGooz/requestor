@@ -35,6 +35,12 @@
       "path": "langs/de.json",
       "flags": {}
     }
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "langs/fr.json",
+      "flags": {}
+    }
   ],
   "url": "https://github.com/krbz999/requestor",
   "manifest": "https://github.com/krbz999/requestor/releases/latest/download/module.json",
