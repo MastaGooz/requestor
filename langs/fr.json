@@ -1,0 +1,14 @@
+{
+  "REQUESTOR.ClickMe": "Cliquez-moi !",
+  "REQUESTOR.Request": "Demande",
+  "REQUESTOR.SettingsExcludeImage": "Exclure l'image",
+  "REQUESTOR.SettingsExcludeImageHint": "Exclure l'image dans les cartes de chat par défaut, sauf si explicitement fourni.",
+  "REQUESTOR.SettingsTrustMode": "Permissions du module",
+  "REQUESTOR.SettingsTrustModeHint": "NE CHANGEZ PAS CE PARAMÈTRE SI VOUS NE FAITES PAS ENTIÈREMENT CONFIANCE À VOS JOUEURS. Cela change les permissions pour qui peut faire et accepter des demandes. (1) MJ SEULEMENT : Seul le MJ peut faire des demandes, et les joueurs ne peuvent cliquer que sur les boutons faits par un MJ. (2) MJ et PROPRE : N'importe qui peut faire des demandes, et les joueurs ne peuvent cliquer que sur les boutons faits par un MJ ou eux-mêmes. (3) LIBRE : N'importe qui peut faire des demandes, et n'importe qui peut cliquer sur n'importe quels boutons.",
+  "REQUESTOR.SettingsTrustModeOptionFree": "Demande : N'importe qui. Accepter : N'importe qui",
+  "REQUESTOR.SettingsTrustModeOptionGM": "Demande : Seulement MJ. Accepter : Seulement si demandé par MJ",
+  "REQUESTOR.SettingsTrustModeOptionOwn": "Demande : N'importe qui. Accepter : Seulement si MJ ou soi-même",
+  "REQUESTOR.WarningGM": "Annulé : Vous êtes autorisé seulement à exécuter les demandes du MJ.",
+  "REQUESTOR.WarningNoPermission": "Annulé : seul le MJ est autorisé à faire des demandes.",
+  "REQUESTOR.WarningOwn": "Annulé : vous êtes autorisé seulement à exécuter les demandes du MJ ou les vôtres."
+}
